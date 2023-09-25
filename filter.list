@@ -28,4 +28,3 @@ https://sigs.interserver.net/iprbl.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://www.talosintelligence.com/documents/ip-blacklist
-# https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset --- great list, but contains 2.5M entries and 2.3M ranges
